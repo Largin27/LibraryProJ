@@ -1,0 +1,8 @@
+﻿  auth.cpp
+c:\users\rusla\source\repos\library\library\interface.h(11): warning C4273: SetConsoleCursorPosition: несовместимая компоновка dll
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\consoleapi2.h(228): note: см. предыдущее определение "SetConsoleCursorPosition"
+  main.cpp
+c:\users\rusla\source\repos\library\library\interface.h(11): warning C4273: SetConsoleCursorPosition: несовместимая компоновка dll
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\consoleapi2.h(228): note: см. предыдущее определение "SetConsoleCursorPosition"
+  Создание кода...
+  Library.vcxproj -> C:\Users\rusla\source\repos\Library\Debug\Library.exe

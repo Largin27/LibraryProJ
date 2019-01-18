@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\dah41\source\repos\library\library\interface.h(16): warning C4273: 'SetConsoleCursorPosition': inconsistent dll linkage
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\consoleapi2.h(228): note: see previous definition of 'SetConsoleCursorPosition'
+c:\users\dah41\source\repos\library\library\interface.h(388): warning C4018: '<': signed/unsigned mismatch
+c:\users\dah41\source\repos\library\library\interface.h(393): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  0 of 661 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Library.vcxproj -> C:\Users\dah41\source\repos\Library\Release\Library.exe
